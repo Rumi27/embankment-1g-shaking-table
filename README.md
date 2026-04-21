@@ -1,7 +1,6 @@
 # Embankment Seismic Response: 2D vs 3D — Shaking Table Analysis Scripts
 
 **Paper:** *3D and 2D Embankment Behaviour under Seismic Loading: Experimental Insights from 1-g Shaking Table Tests on Liquefiable Ground*
-**Journal:** Soil Dynamics and Earthquake Engineering (under revision)
 **Authors:** Zafar Avzalshoev, Pang-jo Chun — Institute of Engineering Innovation, The University of Tokyo
 
 ---
@@ -40,8 +39,6 @@ All tests used Silica Sand No. 7 at relative density D_r ≈ 52%, with a 200 mm 
 │   ├── loops_under_embankment.pdf       # τ–γ loops beneath embankment crest
 │   ├── loops_at_toe.pdf                 # τ–γ loops at embankment toe
 │   └── loops_combined.pdf              # Side-by-side τ–γ comparison (all cases)
-├── revision_checklist.md                # Word document action plan (all 19 comments)
-└── response_to_reviewers.md            # Formal point-by-point reviewer response
 ```
 
 ---
@@ -78,15 +75,15 @@ Onset times: Case 3 = 11.74 s, Case 4 = 14.18 s, Case 7 = 15.46 s.
 
 ---
 
-## Corrections Made During Revision
+## Corrections Applied
 
 | Issue | Original | Corrected |
 |-------|----------|-----------|
-| τ–γ loop scale (C17) | Acceleration used in g → γ was 9.81× too small | Converted to m/s² before integration |
-| Figure 5 τ₁ formula (C11) | Triple integral ∭ | Discrete sum Σᵢ ρᵢ hᵢ aᵢ(t) |
-| Figure 5 d₂ (C11) | Missing "=" sign | d₂ = ∬ a₂ dt |
-| Time alignment (C14) | Absolute time axis | Relative time t − t_onset |
-| Case labels (C3) | Case A/B/C (inconsistent) | Case 3/4/7 throughout |
+| τ–γ loop scale | Acceleration used in g → γ was 9.81× too small | Converted to m/s² before integration |
+| Figure 5 τ₁ formula | Triple integral ∭ | Discrete sum Σᵢ ρᵢ hᵢ aᵢ(t) |
+| Figure 5 d₂ | Missing "=" sign | d₂ = ∬ a₂ dt |
+| Time alignment | Absolute time axis | Relative time t − t_onset |
+| Case labels | Case A/B/C (inconsistent) | Case 3/4/7 throughout |
 
 ---
 
@@ -104,7 +101,7 @@ All scripts use standard scientific Python. Figures are saved as vector PDF (no 
 
 If you use these scripts or figures, please cite the manuscript (citation will be updated upon acceptance):
 
-> Avzalshoev, Z., Chun, P.-J. (2026). *3D and 2D Embankment Behaviour under Seismic Loading: Experimental Insights from 1-g Shaking Table Tests on Liquefiable Ground.* Soil Dynamics and Earthquake Engineering (under revision).
+> Avzalshoev, Z., Chun, P.-J. (2026). *3D and 2D Embankment Behaviour under Seismic Loading: Experimental Insights from 1-g Shaking Table Tests on Liquefiable Ground.* (under revision).
 
 ---
 
