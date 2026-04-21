@@ -1,0 +1,88 @@
+1. Is the subject matter of the manuscript within the aims and scope of the Journal? If not, please elaborate in the comments to author.
+
+Reviewer #1: YES
+
+
+2. Are the objectives and the rationale of the study clearly stated? If not, please provide suggestions in the comments to author.
+ 
+
+Reviewer #1: YES
+
+3. Is the novelty (originality) of the subject, of the methods employed and of the results derived acceptable? Are there plagiarisms and duplicate submissions?
+
+Please respond here with a YES or NO and elaborate in the comments to author. This is the most crucial question of the Questionnaire.
+ 
+
+Reviewer #1: NO, see comments
+
+4. Could the manuscript benefit from additional tables or figures, or from improving or removing some of the existing ones? If yes, please elaborate in the comments to author.
+ 
+
+Reviewer #1: YES, see comments
+
+5. Are the interpretation of results and the conclusions supported by the data? If no, please make suggestions in the comments to author.
+ 
+
+Reviewer #1: NO, see comments.
+
+6. Have the authors clearly emphasized the strengths and limitations of their study/theory/methods/arguments? If not, please make suggestions in the comments to author.
+ 
+
+Reviewer #1: NO, see comments.
+
+7. Does the manuscript structure, material arrangement and flow or writing need improvement? If yes, please make suggestions in the comments to author.
+ 
+
+Reviewer #1: YES, see comments.
+
+8. Could the manuscript benefit from language editing? If yes, please make suggestions in the comments to author.
+ 
+
+Reviewer #1: YES. See comments.
+
+ 
+
+
+Reviewer #1: This article presents an experimental study of the liquefaction-induced deformation of embankment resting on medium dense sand ground by 1g shaking table tests. The authors investigated the different deformation patterns due to the different constraint conditions of 2D and 3D containers. Experimental results in terms of the acceleration response, excess pore pressure, and embankment crest settlement are analyzed and presented. However, there are flaws in the experimental setup and design, and the conclusions cannot be supported by the experimental data. The detailed comments are the following.
+
+1. The state of the art of the development of the shaking table test of embankment on liquefiable ground is not well presented in the introduction part. The introduction of the bi-axial test is not very pertinent to the 2D or 3D effects induced by the containers.
+
+2. The size of the containers used in this study is not sufficiently large for 1g shaking table test. In addition, the container for 3D study has a dimension of 2200 mm, and the container for 2D study has a dimension of 2820 mm. This difference makes the results not easy to compare.
+
+3. Line 158 and Line 159. Case A should be the 3D L shape; Case B should be the 3D straight shape.
+
+4. Please indicate the dimensions of the embankment crest and toe in Figure 3.
+
+5. Please indicate the water level after the saturation in Figure 3.
+
+6. Did the authors verify the water content of the embankment after saturation? The height of the embankment is just 200 mm; due to the capillary effect, the water content of the embankment could be very high. Please add information on the water content of the embankment.
+
+7. Did the authors verify the vertical component of the measured signal of the shaking table? The vertical component has significant effects on the settlement and the deformation pattern of the embankment.
+
+8. Line 174 and Line 175. What is the frequency of the model ground of the soil column? Why preventing the resonance effects could obscure the effect of the boundary? This is not clear.
+
+9. Section 3.1. The verification of the degree of saturation is not convincing. The degree of saturation is the initial state of the undisturbed soil, which cannot be judged by the liquidation of the soil under strong shearing deformation. Especially for the1 g shaking table test, the soil could be easily liquefied, even if the soil is not fully saturated.
+
+10. From the shear modulus and the shear velocity of the soil in section 3.3, the authors could also estimate the frequency of the soil column. This information is important, and the author could complete this information.
+
+11. Some equations in Figure 5 are wrong; please check. For example, why there are three integrals for tau_1? there is a "=" symoble missing for d2, etc. In addition, equation tau(zk,t) in the text has no NO.
+
+12. Line 255. Due the small size of the containers and considering the size of the embankment, the free-field condition does not exist either in the 3D or in the 2D models. There is a strong influence zone near the boundary of the container which can be estimated approximately as the ratio of d/B. d is the depth of the ground and the B is the length of the container. If the d/B is small enough, then the zone outside the corner of the rigid container could be regarded as approximated as a free-field.
+
+13. From the results of Figure. 6, there are many spikes in the excess pore pressure curves, these may due to the strong boundary effect of the rigid container, which reflects many p-waves. The authors could also plot the acceleration response at the same level to check if there a also p-wave induced spikes.
+
+14. The authors could move the blue curve in Figure 6 to the left to align with the other two curves. In this way, the three curves have the same triggering time. The same comment for figure 10 and figure 13.
+
+15. section 4.2. The section tile is contradictory, if a free-field condition exists in the model, it should not be influenced by the boundaries. The free-field condition means an idealized condition, where no boundary effect exists. If the response can be influenced by boundaries, then it is not the free-field condition.
+
+16. The FFT analyses are based on which sensors? Please indicate clearly. Both A B and C have high frequency components, did the author verify the input signal? When looking at the frequencies, there are peaks a 5, 10, 15, 20, 25, 30, 35 etc. If the input signal has a frequency of 5 Hz, then the high frequencies are 2 times, 3 times, 4 times etc. of the input signal; they could come from the resonant vibration of the shaker. Please check that.
+
+17. Due to the low confining pressure, the curves of tau-gamma for the shear stress and strain analysis are not convincing. These curves are too distorted, which makes it very difficult to read. Instead of the tau-gamma curves, the authors could consider plotting the tau-sigma_v' curve or gamma-sigma_v' curves.
+
+18. The comparison of the 3D L shape embankment with the 3D straight embankment is not reasonable, since the 3D L shape embankment introduces another important topography issue, which will influence the results significantly, and needs to be discussed in the interpretation of the results.
+
+19. Did the author use some smoothing treatment on the front and back wall/window of the 2D container? For such a test with very low confining pressure, the friction could influence the response of the model greatly. To well reproduce the 2D plane strain condition, the sidewall of the container should be smooth enough to allow the deformation of the soil.
+
+
+According to the above comments, the analyses and the interpretation of the experimental results have significant flaws and the conclusions cannot be supported by these analyses. The interpretation of the results is not clear, especially in quantifying the strong boundary effect that could potentially exist in the tests. Therefore, the article has to be rejected.
+ 
